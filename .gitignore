@@ -1,0 +1,22 @@
+  # For Windows CMD
+# Python
+*.pyc
+__pycache__/
+
+# Django database
+db.sqlite3
+
+# Environment files
+.env
+
+# VSCode / PyCharm / System files
+.vscode/
+.idea/
+*.DS_Store
+
+# Media / static files (optional)
+media/
+static/
+
+# Logs
+*.log
